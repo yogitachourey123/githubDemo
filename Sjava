@@ -1,6 +1,5 @@
-public class Myclass{
-public static void main(String[] args]{
-System.out.println("this is my freestyle project");
-System.out.println("suterday");
-}
+class Sjava{
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
 }
